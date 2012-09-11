@@ -36,5 +36,6 @@
 return array(
 
 	'docs' => array('handles' => 'docs'),
+	'facebook-php-sdk' => array('auto' => true),
 
 );

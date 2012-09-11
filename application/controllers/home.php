@@ -32,6 +32,8 @@ class Home_Controller extends Base_Controller {
 
 	public function action_index()
 	{
+		$facebook = IoC::resolve('facebook-php-sdk');
+		print_r($facebook->getSignedRequest());
 		return View::make('home.index');
 	}
 
