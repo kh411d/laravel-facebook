@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cust",
+				"customer_id"
+			],
+			[
+				"cam",
+				"campaign_id"
+			],
+			[
+				"customer",
+				"customeritem"
+			],
+			[
+				"crea",
+				"createView"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/laravel/application/controllers/login.php",
+		"/D/xampp/htdocs/laravel/application/controllers/home.php",
+		"/D/xampp/htdocs/laravel/application/views/layouts/main.blade.php",
+		"/D/xampp/htdocs/laravel/application/views/home/about.blade.php",
+		"/D/xampp/htdocs/laravel/application/views/home/index.blade.php",
+		"/D/xampp/htdocs/laravel/application/controllers/base.php",
+		"/D/xampp/htdocs/laravel/application/routes.php",
+		"/D/xampp/htdocs/laravel/application/controllers/dashboard.php",
+		"/D/xampp/htdocs/laravel/application/config/application.php",
+		"/D/xampp/htdocs/laravel/application/models/user.php",
+		"/D/xampp/htdocs/laravel/application/controllers/user.php",
+		"/D/xampp/htdocs/laravel/application/config/database.php",
+		"/D/xampp/htdocs/laravel/application/config/auth.php",
+		"/D/xampp/htdocs/laravel/application/views/dashboard/index.blade.php",
+		"/D/xampp/htdocs/laravel/application/controllers/dashboard",
+		"/D/xampp/htdocs/laravel/application/models/userprofile.php",
+		"/D/xampp/htdocs/laravel/paths.php",
+		"/D/xampp/htdocs/laravel/.htaccess",
+		"/D/xampp/htdocs/fbbeliafuntrip/index.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/module/views/dashboard/header.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/module/views/dashboard/index.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/lib/app_helper.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/lib/facebook_helper.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/module/controllers/tab_customer_photo_c.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/module/controllers/dashboard/dashboard_photo_c.php",
+		"/D/xampp/htdocs/fbbeliafuntrip/module/models/customer_photo_m.php",
+		"/C/Documents and Settings/Web Developer/Application Data/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/D/xampp/htdocs/dss_shoutbox/views/home.html",
+		"/D/xampp/htdocs/dss_shoutbox/views/upload.html",
+		"/D/xampp/htdocs/dss_shoutbox/views/gallery.html",
+		"/D/xampp/htdocs/dss_shoutbox/src/Acme/Provider/Controller/CampaignControllerProvider.php",
+		"/D/xampp/htdocs/dss_shoutbox/src/Acme/Model/CustomerItem.php",
+		"/D/xampp/htdocs/dss_shoutbox/views/authorize.html",
+		"/D/xampp/htdocs/dss_shoutbox/views/notification.html",
+		"/D/xampp/htdocs/dss_shoutbox/views/header.html",
+		"/D/xampp/htdocs/dss_shoutbox/src/Acme/Helper/Facebook.php",
+		"/D/xampp/htdocs/dss_shoutbox/views/register.html",
+		"/D/xampp/htdocs/shoutbox2/js/script.js",
+		"/D/xampp/htdocs/shoutbox2/css/css.css",
+		"/D/xampp/htdocs/dss_shoutbox/assets/css/css.css",
+		"/D/xampp/htdocs/dss_shoutbox/views/footer.html",
+		"/D/xampp/htdocs/shoutbox2/include/footer.php",
+		"/D/xampp/htdocs/shoutbox2/gallery.php",
+		"/D/xampp/htdocs/shoutbox/gallery.php",
+		"/D/xampp/htdocs/dss_shoutbox/application/config.php",
+		"/D/xampp/htdocs/dss_shoutbox/src/Acme/Model/Customer.php",
+		"/D/xampp/htdocs/dss_shoutbox/index.php",
+		"/D/xampp/htdocs/dss_shoutbox/views/fanlike.html",
+		"/D/xampp/htdocs/silex/views/gallery.html",
+		"/D/xampp/htdocs/silex/views/header.html",
+		"/D/xampp/htdocs/silex/src/Acme/Model/Customer.php",
+		"/D/xampp/htdocs/silex/src/Acme/Model/CustomerItem.php",
+		"/D/xampp/htdocs/silex/src/Acme/Provider/Controller/DashboardControllerProvider.php",
+		"/D/xampp/htdocs/silex/views/notification.html",
+		"/C/Documents and Settings/Web Developer/My Documents/Downloads/fb _like_pagination/fb _like_pagination/core.php",
+		"/D/xampp/htdocs/silex/views/dashboard/customeritem_index.html",
+		"/D/xampp/htdocs/silex/src/Acme/Provider/Controller/CampaignControllerProvider.php",
+		"/D/xampp/htdocs/silex/src/Acme/Provider/Controller/cicontroller.php",
+		"/D/xampp/htdocs/silex/index.php",
+		"/D/xampp/htdocs/silex/views/fanlike.html",
+		"/D/xampp/htdocs/silex/src/Acme/Provider/Controller/HomeControllerProvider.php",
+		"/D/xampp/htdocs/silex/views/gallery_detail.html",
+		"/D/xampp/htdocs/silex/views/upload.html",
+		"/D/xampp/htdocs/silex/views/page.html",
+		"/D/xampp/htdocs/silex/views/register.html",
+		"/D/xampp/htdocs/silex/src/Acme/Helper/Facebook.php",
+		"/D/xampp/htdocs/silex/views/home.html",
+		"/D/xampp/htdocs/silex/src/Acme/Provider/Controller/PageControllerProvider.php",
+		"/D/xampp/htdocs/silex/src/Acme/Model/Campaign.php",
+		"/D/xampp/htdocs/silex/views/authorize.html",
+		"/C/Documents and Settings/Web Developer/Application Data/Sublime Text 2/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Documents and Settings/Web Developer/Application Data/Sublime Text 2/Packages/FTPSync/ftpsync.sublime-settings",
+		"/C/Documents and Settings/Web Developer/Application Data/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/silex/src/Acme/Lib/PEAR/Pager.php",
+		"/D/xampp/htdocs/silex/src/Acme/Lib/PEAR/Pager/Common.php",
+		"/D/xampp/htdocs/silex/src/Acme/Lib/PEAR/Pager/Pager.php",
+		"/D/xampp/htdocs/silex/src/Acme/Model/Page.php",
+		"/D/xampp/htdocs/silex/views/dashboard/header.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"canvas_url",
+			"'match' => true,",
+			"upload",
+			"accessToken",
+			"$this->_fileName",
+			"PAGER_CURRENT_FILENAME",
+			"this->_path",
+			"this->_filename",
+			"path",
+			"_allowed_options",
+			"path",
+			"get_instance"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}
